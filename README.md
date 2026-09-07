@@ -34,7 +34,7 @@ ABET-accredited (*two universities*) Electrical Engineering background paired wi
 
 ---  
 ### 📊 Stats & Activity
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Humiditron&theme=ocean&hide=prs%2Cissues%2Cfollowers%2Ccontributions)  
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Humiditron&theme=ocean&hide=prs%2Cissues%2Cfollowers%2Ccontributions%2Cstars)  
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Humiditron&theme=ocean&days=30&width=400&height=80)
 ---  
 ### ⚡ Core Stack  
