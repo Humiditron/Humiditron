@@ -8,6 +8,7 @@
  \__|  |__/ (__________)|___|\__/|___|(__\_|_)(________/(__\_|_)  \__|   |__|  \___) \"_____/    \___|\____\)                                                                                                               
  ============================================================================================================
  [SYS_STATUS]: ONLINE
+ [DOMAIN]: https://humid.com
  [TARGETS]: ESP32 / Docker / Remote VPS
 ```
 [![Donate to Humid1](https://custom-icon-badges.demolab.com/badge/Donate-Humid1.com-4A154B?style=plastic&logo=signupgenius&logoColor=white)](https://tools.signupgenius.com/c/support-humid1-project)  
