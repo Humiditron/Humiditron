@@ -36,7 +36,9 @@ ABET-accredited (*two universities*) Electrical Engineering background paired wi
   <img src="https://github-readme-stats.vercel.app/api?username=humiditron&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="humiditron's stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humiditron&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
----
+
+---  
+
 ### ⚡ Core Stack  
 
 ![ESP32](https://img.shields.io/badge/ESP32-E32227?style=for-the-badge&logo=espressif&logoColor=white)  
