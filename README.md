@@ -35,7 +35,7 @@ ABET-accredited (*two universities*) Electrical Engineering background paired wi
 ---  
 ### 📊 Stats & Activity
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Humiditron&theme=ocean&hide=prs%2Cissues%2Cfollowers%2Ccontributions)  
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Humiditron&theme=ocean&days=30&width=320&height=80)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Humiditron&theme=ocean&days=30&width=400&height=80)
 ---  
 ### ⚡ Core Stack  
 ![ESP32](https://img.shields.io/badge/ESP32-E32227?style=for-the-badge&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
