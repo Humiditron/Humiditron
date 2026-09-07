@@ -17,7 +17,9 @@
 **Electrical Engineering & Embedded Firmware**
   
 ABET-accredited (*two universities*) Electrical Engineering background paired with practical execution. Specializing in hardware/circuit design, embedded firmware, power management, and remote self-hosted infrastructure.  
+
 ---
+
 ### 🎛️ Areas of Focus
 * ⚡ **Electrical Engineering:** AC/DC circuit analysis, power systems/charging circuits, sensor bus integration (I2C, SPI, UART), and signal integrity.
 * 📡 **Firmware & Protocols:** C/C++ embedded systems, FreeRTOS task handling, custom BLE provisioning protocols, and MQTT telemetry streams.
