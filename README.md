@@ -7,9 +7,10 @@
 (:  (  )  :) /\\ __ //\ |.  \    /:  | /\  |\ |:       :)/\  |\  \:  |   |:  __   \ \        /  |    \    \ | 
  \__|  |__/ (__________)|___|\__/|___|(__\_|_)(________/(__\_|_)  \__|   |__|  \___) \"_____/    \___|\____\)                                                                                                               
  ============================================================================================================
- [SYS_STATUS]: . ONLINE
- [TARGETS]: .... ESP32 / Docker / Remote VPS
- [DOMAIN]: ..... https://humid.com
+ [ORGANIZATION] . HUMIDYNE LABS (not a licensed entity)
+ [SYS_STATUS]: .. ONLINE
+ [TARGETS]: ..... ESP32 / Docker / Remote VPS
+ [DOMAIN]: ...... https://humid.com
 ```
 [![Donate to Humid1](https://custom-icon-badges.demolab.com/badge/Donate-Humid1.com-4A154B?style=plastic&logo=signupgenius&logoColor=white)](https://tools.signupgenius.com/c/support-humid1-project)  
 
