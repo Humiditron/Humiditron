@@ -30,12 +30,12 @@ ABET-accredited (*two universities*) Electrical Engineering background paired wi
 | **Infrastructure & DevOps** | Docker, Authentik, Linux (Remote VPS), Tailscale |
 | **Dev Environment** | Windows 11 / WSL2, SSHFS, Rclone, Git, VS Code |
 
----
+---  
+
 ### 📊 Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humiditron&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="humiditron's stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humiditron&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=humiditron&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humiditron&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 ---  
 
