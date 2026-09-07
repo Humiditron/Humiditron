@@ -32,14 +32,9 @@ ABET-accredited (*two universities*) Electrical Engineering background paired wi
 
 ---  
 ### 📊 Stats & Activity
-![humiditron's stats](https://github-readme-stats.vercel.app/api?username=humiditron&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humiditron&layout=compact&theme=tokyonight&hide_border=true)
+![humiditron's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=humiditron&theme=tokyo-night&hide_border=true)
 ---  
 ### ⚡ Core Stack  
-![ESP32](https://img.shields.io/badge/ESP32-E32227?style=for-the-badge&logo=espressif&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![ESP32](https://img.shields.io/badge/ESP32-E32227?style=for-the-badge&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 📫 **Connect:** [humid1.com](https://humid1.com)
