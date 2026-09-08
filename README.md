@@ -36,6 +36,7 @@ ABET-accredited (*two universities*) Electrical Engineering background paired wi
 | **Embedded & Protocols** | C/C++, FreeRTOS, BLE, MQTT, I2C, SPI, UART |
 | **Backend & Automation** | Python, Bash, PostgreSQL, ThingsBoard IoT Engine, REST APIs |
 | **Infrastructure & DevOps** | Docker, Authentik, Linux (Remote VPS), Tailscale |
+| **AI & Workflow Tooling** | Google AI Studio (Gemini 3.8 Flash API), Prompt Engineering, Agentic Tooling |
 | **Dev Environment** | Windows 11 / WSL2, SSHFS, Rclone, Git, VS Code |
 
 ---  
@@ -44,6 +45,6 @@ ABET-accredited (*two universities*) Electrical Engineering background paired wi
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Humiditron&theme=ocean&days=30&width=400&height=80)
 ---  
 ### ⚡ Core Stack  
-![ESP32](https://img.shields.io/badge/ESP32-E32227?style=for-the-badge&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-E32227?style=for-the-badge&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ---
 📫 **Connect:** [chat.humid1.com](https://chat.humid1.com)
