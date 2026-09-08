@@ -8,7 +8,7 @@
  * @license        MIT
  *
  * @target         ESP32 / ESP32-S3
- * @peripherals I2C, SPI, BLE, MQTT
+ * @peripherals    I2C, SPI, BLE, MQTT
  *
  * @details        [Detailed description of functionality, task handling,
  *                  or hardware memory management notes.]
