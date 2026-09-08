@@ -47,4 +47,5 @@ ABET-accredited (*two universities*) Electrical Engineering background paired wi
 ### ⚡ Core Stack  
 ![ESP32](https://img.shields.io/badge/ESP32-E32227?style=for-the-badge&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ---
-📫 **Connect:** [chat.humid1.com](https://chat.humid1.com) (the server is under construction, not currently open to the public)
+📫 **Connect:** [chat.humid1.com](https://chat.humid1.com)  
+🚧 (the server is under construction, not currently open to the public)
